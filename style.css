@@ -1,0 +1,25 @@
+.huang{
+    background-color: yellow; color:#ff0000;
+  }
+  .ho{
+  	background-color:#ff0000; color:yellow;
+  }
+  .lan{
+  	background-color:#0033ff; color:#000000;
+  }
+  .lv{
+  	background-color:#00ff33; color:#000000;
+  }
+  .zhi{
+  	background-color:#6600cc; color:#FFFFFF;
+  }
+  .bai{
+  	background-color:#FFFFFF; color:#000000;
+  }
+  a:link,a:visited{ 
+ text-decoration:none;  /*超链接无下划线*/ 
+ 
+} 
+a:hover{ 
+ text-decoration:underline;  /*鼠标放上去有下划线*/ 
+} 
